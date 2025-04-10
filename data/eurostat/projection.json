@@ -1,4 +1,6 @@
 {
+    "description": "Auxiliary data for the Eurostat LFS dataset",
+    "source_url": "https://ec.europa.eu/eurostat/documents/203647/20621087/EU+Labour+Force+Survey+Database+User+Guide+2024+release.pdf",
     "keep": [
         "PIDENT",
         "YEAR",
